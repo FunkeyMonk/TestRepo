@@ -9,7 +9,7 @@ public class TaskC {
             for (int a = 0; a < i; a++) { // uses row # to find how many cheers to put ex. 4th row = 4 cheers
                 System.out.print("\\o/");
             }
-            // this is just to make changes
+            // this is just to make changes again
             System.out.println("\n");
         }
     }
